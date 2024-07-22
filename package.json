@@ -1,0 +1,22 @@
+{
+  "name": "export-table-to-word",
+  "version": "1.0.0",
+  "description": "A utility to export HTML tables to Word documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulsalam8/export-table-to-word-npm-package.git"
+  },
+  "keywords": [
+    "html", "table", "word", "export","reactjs"
+  ],
+  "author": "abdulsalam Abubakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulsalam8/export-table-to-word-npm-package/issues"
+  },
+  "homepage": "https://github.com/abdulsalam8/export-table-to-word-npm-package#readme"
+}
