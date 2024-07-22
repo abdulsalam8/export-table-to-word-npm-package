@@ -11,12 +11,20 @@
     "url": "git+https://github.com/abdulsalam8/export-table-to-word-npm-package.git"
   },
   "keywords": [
-    "html", "table", "word", "export","reactjs"
+    "html",
+    "table",
+    "word",
+    "export",
+    "reactjs"
   ],
   "author": "abdulsalam Abubakar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/abdulsalam8/export-table-to-word-npm-package/issues"
   },
-  "homepage": "https://github.com/abdulsalam8/export-table-to-word-npm-package#readme"
+  "homepage": "https://github.com/abdulsalam8/export-table-to-word-npm-package#readme",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "html-docx-js": "^0.3.1"
+  }
 }
